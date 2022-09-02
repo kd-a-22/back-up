@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CMOD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <MODACT>
+    <MODACT>
+     <NAME>TG47CUS1</NAME>
+    </MODACT>
+    <MODACT>
+     <NAME>TG47CUS1</NAME>
+     <MEMBER>SBC47E01</MEMBER>
+    </MODACT>
+    <MODACT>
+     <NAME>TG47CUS1</NAME>
+     <MEMBER>SBC47E02</MEMBER>
+    </MODACT>
+    <MODACT>
+     <NAME>TG47CUS1</NAME>
+     <MEMBER>SBC47E03</MEMBER>
+    </MODACT>
+   </MODACT>
+   <MODTEXT>
+    <MODTEXT>
+     <SPRSL>E</SPRSL>
+     <NAME>TG47CUS1</NAME>
+     <MODTEXT>PROJECT BC425_47</MODTEXT>
+    </MODTEXT>
+   </MODTEXT>
+   <MODATTR>
+    <MODATTR>
+     <NAME>TG47CUS1</NAME>
+    </MODATTR>
+   </MODATTR>
+  </asx:values>
+ </asx:abap>
+</abapGit>
